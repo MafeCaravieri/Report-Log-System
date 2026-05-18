@@ -1,0 +1,14 @@
+C:\Users\mafec\Documents\Portifolio\TicketSystem\obj\Debug\net11.0\TicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mafec\Documents\Portifolio\TicketSystem\obj\Debug\net11.0\TicketSystem.AssemblyInfoInputs.cache
+C:\Users\mafec\Documents\Portifolio\TicketSystem\obj\Debug\net11.0\TicketSystem.AssemblyInfo.cs
+C:\Users\mafec\Documents\Portifolio\TicketSystem\obj\Debug\net11.0\TicketSystem.csproj.CoreCompileInputs.cache
+C:\Users\mafec\Documents\Portifolio\TicketSystem\bin\Debug\net11.0\TicketSystem.exe
+C:\Users\mafec\Documents\Portifolio\TicketSystem\bin\Debug\net11.0\TicketSystem.deps.json
+C:\Users\mafec\Documents\Portifolio\TicketSystem\bin\Debug\net11.0\TicketSystem.runtimeconfig.json
+C:\Users\mafec\Documents\Portifolio\TicketSystem\bin\Debug\net11.0\TicketSystem.dll
+C:\Users\mafec\Documents\Portifolio\TicketSystem\bin\Debug\net11.0\TicketSystem.pdb
+C:\Users\mafec\Documents\Portifolio\TicketSystem\obj\Debug\net11.0\TicketSystem.dll
+C:\Users\mafec\Documents\Portifolio\TicketSystem\obj\Debug\net11.0\refint\TicketSystem.dll
+C:\Users\mafec\Documents\Portifolio\TicketSystem\obj\Debug\net11.0\TicketSystem.pdb
+C:\Users\mafec\Documents\Portifolio\TicketSystem\obj\Debug\net11.0\TicketSystem.genruntimeconfig.cache
+C:\Users\mafec\Documents\Portifolio\TicketSystem\obj\Debug\net11.0\ref\TicketSystem.dll
