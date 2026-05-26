@@ -11,7 +11,7 @@ A simple but powerful C# console application for registering, listing, and manag
 - CSV export for data analysis
 - Persistent storage (data saved locally)
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 - [.NET SDK](https://dotnet.microsoft.com/download) installed
